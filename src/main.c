@@ -10,5 +10,8 @@ int main(){
     
     goo();
     printf("bad\n");
+
+    printf("I made it");
+    
     return 0;
 }
